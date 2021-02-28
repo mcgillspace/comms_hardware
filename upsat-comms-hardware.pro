@@ -1,4 +1,4 @@
-update=Sat 09 Apr 2016 03:57:02 PM EEST
+update=2020-07-03 15:23:05
 version=1
 last_client=kicad
 [pcbnew]
@@ -73,3 +73,13 @@ LibName41=libs/TPS79930
 LibName42=libs/PE4259
 LibName43=libs/FA_128_
 LibName44=valves
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=../../../
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
